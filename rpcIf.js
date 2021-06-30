@@ -1,7 +1,7 @@
-var cpu = Math.random * (4-1)+1;
+var cpu = Math.random * (4-1);
 var jugador;
 
-function juego(jugador,cpu){
+function juego(jugador){
     if(jugador === "piedra"){
         var choice =1;
         if(choice == cpu){
