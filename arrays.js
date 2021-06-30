@@ -21,3 +21,8 @@ for (const fruit of arr) {
     contarFrutas(fruit);
 }
 
+while (arr.length>0) {
+    let fruit = arr.shift();
+    contarFrutas(fruit); 
+}
+
