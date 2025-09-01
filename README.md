@@ -1,5 +1,5 @@
 # JavaScript-Basico
 Aprendimos lo basico en JS
 
-PD: Todo esta en la rama Master, no en la Main, aun tengo que ver como cambiar eso
+PD: Despues de tanto tiempo ya con mas experiencia, ya tengo todo en la rama main, todo cools, la verdad no me acordaba de este proyectico
 
